@@ -24,16 +24,19 @@
 
 <p align="center">
   <a href="https://github.com/BayDomates">
-    <img src="https://github-readme-stats.vercel.app/api?username=BayDomates&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub İstatistikleri" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=BayDomates&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub İstatistikleri" width="48%">
   </a>
   <a href="https://github.com/BayDomates">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BayDomates&theme=tokyonight&hide_border=true" alt="GitHub Serisi" width="48%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BayDomates&theme=tokyonight&hide_border=true&v=1" alt="GitHub Serisi" width="48%">
   </a>
 </p>
 
+<!-- GitHub Action kurulana kadar gizli kalacak yılan animasyonu -->
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/BayDomates/BayDomates/output/github-contribution-grid-snake.svg" alt="Katkı Yılanı" width="100%" />
 </p>
+-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
