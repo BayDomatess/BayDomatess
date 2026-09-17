@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="60" alt="Python" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="60" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="60" alt="C#" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/rust/F74C00" height="60" alt="Rust" />
 </div>
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/BayDomates">
-    <img src="https://github-readme-stats.vercel.app/api?username=BayDomates&show_icons=true&theme=tokyonight&hide_border=true&locale=tr&include_all_commits=true" alt="GitHub İstatistikleri" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=BayDomates&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub İstatistikleri" width="48%">
   </a>
   <a href="https://github.com/BayDomates">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BayDomates&theme=tokyonight&hide_border=true" alt="GitHub Serisi" width="48%">
