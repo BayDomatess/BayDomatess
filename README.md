@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=BayDomates&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20C%23%20%7C%20Rust%20Developer&descAlignY=58&descSize=20" width="100%" alt="" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=BayDomates&fontColor=36BCF5&fontSize=70&height=100&animation=fadeIn" alt="" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="" />
@@ -34,10 +36,10 @@
 
 <p align="center">
   <a href="https://github.com/BayDomates">
-    <img src="https://github-readme-stats.vercel.app/api?username=BayDomates&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=BayDomates&show_icons=true&theme=tokyonight&hide_border=true&v=3" alt="" width="48%">
   </a>
   <a href="https://github.com/BayDomates">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BayDomates&theme=tokyonight&hide_border=true&v=2" alt="" width="48%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BayDomates&theme=tokyonight&hide_border=true&v=3" alt="" width="48%">
   </a>
 </p>
 
