@@ -9,11 +9,11 @@
 </div>
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" alt="Python" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010" alt="C#" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010" alt="Rust" />
-  </p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="60" alt="Python" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/csharp/239120" height="60" alt="C#" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rust/F74C00" height="60" alt="Rust" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
@@ -39,12 +39,14 @@
 
 <div align="center">
   <a href="mailto:BayDomates@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-BayDomates@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101010" alt="ProtonMail" />
+    <img src="https://cdn.simpleicons.org/proton/6D4AFF" height="60" alt="ProtonMail" />
   </a>
-  <a href="https://discordapp.com/users/domatiss">
-    <img src="https://img.shields.io/badge/Discord-domatiss-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Discord" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/domatiss">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="60" alt="Discord" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/BayDomates">
-    <img src="https://img.shields.io/badge/Telegram-BayDomates-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010" alt="Telegram" />
+    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" height="60" alt="Telegram" />
   </a>
 </div>
