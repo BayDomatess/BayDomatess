@@ -1,46 +1,42 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=BayDomates&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20C%23%20%7C%20Rust%20Developer&descAlignY=58&descSize=20" width="100%" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Geli%C5%9Ftirici;C%23+Tutkunu;Rust+ile+Masa%C3%BCst%C3%BC+Uygulamalar%C4%B1;Otomasyon+ve+Bot+Uzman%C4%B1;S%C3%BCrekli+%C3%96%C4%9Freniyor...&font=Fira+Code&center=true&width=500&height=50&color=36BCF5&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&color=36BCF5&height=40&width=300&center=true&lines=👨‍💻%20Hakkımda" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hakk%C4%B1mda&fontColor=36BCF5&fontSize=28&height=50&animation=twinkling&fontAlignY=50" />
 </div>
 
 <div align="left">
-  <code>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=c678dd&height=26&width=800&duration=2000&lines=class%20Developer:" /><br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=61afef&height=26&width=800&duration=2000&lines=%20%20%20%20def%20__init__(self):" /><br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=e06c75&height=26&width=800&duration=2000&lines=%20%20%20%20%20%20%20%20self.name%20=%20'BayDomates'" /><br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=e5c07b&height=26&width=800&duration=2000&lines=%20%20%20%20%20%20%20%20self.location%20=%20'Türkiye%20🇹🇷'" /><br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=98c379&height=26&width=800&duration=2000&lines=%20%20%20%20%20%20%20%20self.core_languages%20=%20['Python',%20'C%23',%20'Rust']" /><br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=56b6c2&height=26&width=800&duration=2000&lines=%20%20%20%20%20%20%20%20self.expertise%20=%20['Web%20Otomasyonu',%20'API',%20'GUI',%20'Discord%20Botları']" /><br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=d19a66&height=26&width=800&duration=2000&lines=%20%20%20%20%20%20%20%20self.learning%20=%20['Mimari',%20'Rust%20Modülleri',%20'Bypass']" /><br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=61afef&height=26&width=800&duration=2000&lines=%20%20%20%20def%20get_motto(self):" /><br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=98c379&height=26&width=800&duration=2000&lines=%20%20%20%20%20%20%20%20return%20'İnşa%20Et.%20Boz.%20Öğren.%20Tekrarla.%20🚀'" />
-  </code>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=class%20Developer:&fontColor=c678dd&fontSize=18&height=30&animation=fadeIn&fontAlign=10&fontAlignY=50" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=def%20__init__(self):&fontColor=61afef&fontSize=18&height=30&animation=fadeIn&fontAlign=15&fontAlignY=50" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=self.name%20=%20%22BayDomates%22&fontColor=e06c75&fontSize=18&height=30&animation=fadeIn&fontAlign=20&fontAlignY=50" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=self.location%20=%20%22T%C3%BCrkiye%22&fontColor=e5c07b&fontSize=18&height=30&animation=fadeIn&fontAlign=20&fontAlignY=50" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=self.core_languages%20=%20[%22Python%22,%20%22C%23%22,%20%22Rust%22]&fontColor=98c379&fontSize=18&height=30&animation=fadeIn&fontAlign=20&fontAlignY=50" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=self.expertise%20=%20[%22Web%20Otomasyonu%22,%20%22API%20Entegrasyonlar%C4%B1%22,%20%22GUI%22,%20%22Botlar%22]&fontColor=56b6c2&fontSize=18&height=30&animation=fadeIn&fontAlign=20&fontAlignY=50" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=self.currently_learning%20=%20[%22Yaz%C4%B1l%C4%B1m%20Mimarisi%22,%20%22Rust%20Mod%C3%BClleri%22,%20%22Bypass%22]&fontColor=d19a66&fontSize=18&height=30&animation=fadeIn&fontAlign=20&fontAlignY=50" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=def%20get_motto(self):&fontColor=61afef&fontSize=18&height=30&animation=fadeIn&fontAlign=15&fontAlignY=50" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=return%20%22%C4%B0n%C5%9Fa%20Et.%20Boz.%20%C3%96%C4%9Fren.%20Tekrarla.%22&fontColor=98c379&fontSize=18&height=30&animation=fadeIn&fontAlign=20&fontAlignY=50" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&color=36BCF5&height=45&width=600&center=true&lines=⚡%20Neler%20Üzerinde%20Çalışıyorum?" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Neler%20%C3%9Czerinde%20%C3%87al%C4%B1%C5%9F%C4%B1yorum%3F&fontColor=36BCF5&fontSize=28&height=50&animation=twinkling&fontAlignY=50" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=ffffff&height=35&width=800&center=true&lines=🐍%20Python%20ile%20gelişmiş%20web%20otomasyonları%20ve%20karmaşık%20betikler" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=ffffff&height=35&width=800&center=true&lines=💻%20C%23%20ile%20sistem%20programlama%20ve%20algoritmik%20gelişim" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=ffffff&height=35&width=800&center=true&lines=🦀%20Rust%20ile%20yüksek%20performanslı%20masaüstü%20uygulamaları" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=ffffff&height=35&width=800&center=true&lines=🤖%20API%20tabanlı%20otomasyonlar%20ve%20Discord%20sistemleri" />
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=*%20Python%20ile%20geli%C5%9Fmi%C5%9F%20web%20otomasyonlar%C4%B1%20ve%20karma%C5%9F%C4%B1k%20betikler&fontColor=ffffff&fontSize=16&height=32&animation=fadeIn&fontAlign=15&fontAlignY=50" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=*%20C%23%20ile%20sistem%20programlama%20ve%20algoritmik%20geli%C5%9Fim&fontColor=ffffff&fontSize=16&height=32&animation=fadeIn&fontAlign=15&fontAlignY=50" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=*%20Rust%20ile%20y%C3%BCksek%20performansl%C4%B1%20masa%C3%BCst%C3%BC%20uygulamalar%C4%B1&fontColor=ffffff&fontSize=16&height=32&animation=fadeIn&fontAlign=15&fontAlignY=50" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=*%20API%20tabanl%C4%B1%20otomasyonlar%20ve%20Discord%20sistemleri&fontColor=ffffff&fontSize=16&height=32&animation=fadeIn&fontAlign=15&fontAlignY=50" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&color=36BCF5&height=45&width=500&center=true&lines=🛠️%20Teknoloji%20Yığınım" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Teknoloji%20Y%C4%B1%C4%9F%C4%B1n%C4%B1m&fontColor=36BCF5&fontSize=28&height=50&animation=twinkling&fontAlignY=50" />
 </div>
 
 <div align="center">
@@ -54,7 +50,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&color=36BCF5&height=45&width=500&center=true&lines=📊%20GitHub%20İstatistikleri" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=GitHub%20%C4%B0statistikleri&fontColor=36BCF5&fontSize=28&height=50&animation=twinkling&fontAlignY=50" />
 </div>
 
 <p align="center">
@@ -69,7 +65,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&color=36BCF5&height=45&width=500&center=true&lines=🌐%20Benimle%20İletişime%20Geçin" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Benimle%20%C4%B0leti%C5%9Fime%20Ge%C3%A7in&fontColor=36BCF5&fontSize=28&height=50&animation=twinkling&fontAlignY=50" />
 </div>
 
 <div align="center">
@@ -87,7 +83,5 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ziyaret+etti%C4%9Fin+i%C3%A7in+te%C5%9Fekk%C3%BCrler!;Harika+bir+%C5%9Feyler+kodlayal%C4%B1m...&font=Fira+Code&center=true&width=400&height=40&color=FFFFFF&vCenter=true&pause=2000&size=16" alt="Footer Typing" />
-  <br>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Ziyaret%20etti%C4%9Fin%20i%C3%A7in%20te%C5%9Fekk%C3%BCrler!&fontColor=ffffff&fontSize=16&height=35&animation=fadeIn&fontAlignY=50" />
 </div>
