@@ -31,6 +31,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BayDomates/BayDomates/output/github-contribution-grid-snake.svg" alt="Katkı Yılanı" width="100%" />
+</p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 <div align="center">
