@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=BayDomates&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20C%23%20%7C%20Rust%20Developer&descAlignY=58&descSize=20" width="100%" alt="" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=36BCF5&background=0D1117&width=650&height=80&lines=>_+cargo+check+--manifest-path=ApexCheckerGui;>_+python+main.py+recaptcha_v2+--provider+gemini;>_+taskkill+/f+/im+slui.exe;>_+System+Online.+Ready+to+code." alt="" />
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="" />
 
 <div align="center">
@@ -45,12 +41,9 @@
   </a>
 </p>
 
-<!-- Yılan animasyonu (Action kurulduğunda görünür olacak) -->
-<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/BayDomates/BayDomates/output/github-contribution-grid-snake.svg" alt="" width="100%" />
 </p>
--->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="" />
 
