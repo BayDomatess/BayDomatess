@@ -1,163 +1,92 @@
-<div align="center">
+<h1 align="center">Merhaba, Ben BayDomates! <img src="https://media.giphy.com/media/mG83nPIcf0p52X92j4/giphy.gif" width="35"></h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=BayDomatis&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Programming%20Student%20%7C%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Geli%C5%9Ftirici;C%23+Tutkunu;Otomasyon+Uzman%C4%B1;Backend+Geli%C5%9Ftirici;S%C3%BCrekli+%C3%96%C4%9Frenen...&font=Fira+Code&center=true&width=440&height=45&color=36BCF5&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</p>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+BayDomatis+%F0%9F%91%8B;Computer+Programming+Student+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Building+%26+Learning+Every+Day+%E2%9A%A1;Welcome+to+my+GitHub!+%F0%9F%9A%80" />
-
-<br><br>
-
-[![GitHub followers](https://img.shields.io/github/followers/BayDomatis?style=for-the-badge\&logo=github\&label=Followers)](https://github.com/BayDomatis)
-[![GitHub stars](https://img.shields.io/github/stars/BayDomatis?style=for-the-badge\&logo=github\&label=Stars)](https://github.com/BayDomatis)
-
-</div>
-
----
-
-## 👨‍💻 About Me
+### 👨‍💻 Hakkımda
 
 ```python
 class Developer:
+    def __init__(self):
+        self.name = "BayDomates"
+        self.location = "Türkiye 🇹🇷"
+        
+        self.interests = [
+            "Python", "C#", "Rust", 
+            "Web Geliştirme", "Otomasyon", 
+            "Backend Geliştirme", "Discord Botları"
+        ]
+        
+        self.currently_learning = [
+            "İleri Düzey Python", "Rust GUI", 
+            "Yazılım Mimarisi", "İleri Düzey API'ler"
+        ]
 
-    name = "BayDomatis"
-    education = "Computer Programming"
-    location = "Türkiye"
-
-    interests = [
-        "Python",
-        "C#",
-        "Web Development",
-        "Automation",
-        "Backend Development",
-        "Discord Bots"
-    ]
-
-    currently_learning = [
-        "Advanced Python",
-        "C#",
-        "JavaScript",
-        "APIs",
-        "Software Architecture"
-    ]
-
-    motto = "Build. Break. Learn. Repeat. 🚀"
+    def get_motto(self):
+        return "İnşa Et. Boz. Öğren. Tekrarla. 🚀"
 ```
 
----
-
-## ⚡ What I'm Working On
-
-* 🐍 Developing projects with **Python**
-* 💻 Improving my **C#** skills
-* 🌐 Learning modern **Web Development**
-* 🤖 Building automation and bot projects
-* 🔌 Working with APIs and external services
-* 📚 Continuously learning new technologies
+### ⚡ Neler Üzerinde Çalışıyorum?
+- 🐍 **Python** ile karmaşık projeler ve web otomasyonları geliştiriyorum.
+- 💻 **C#** ve sistem programlama becerilerimi geliştiriyorum.
+- 🦀 **Rust** ile modüler mimari ve masaüstü GUI oluşturmayı keşfediyorum.
+- 🌐 Modern Web Geliştirme tekniklerini öğreniyorum.
+- 🤖 Otomasyon betikleri, API entegrasyonları ve Discord botları inşa ediyorum.
+- 🛠️ Harici hizmetlerle çalışıyorum.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Teknoloji Yığınım
 
-<div align="center">
+**Diller**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css" />
-
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,nodejs,mysql,linux" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project                 | Description                                       |
-| ----------------------- | ------------------------------------------------- |
-| 🐍 **Python Projects**  | Automation, utilities and various Python projects |
-| 🤖 **Discord Projects** | Discord bots and API integrations                 |
-| 💻 **C# Projects**      | Applications and programming experiments          |
-| 🌐 **Web Projects**     | Web development and API-based projects            |
-
-</div>
-
-> 📌 More projects are available in my repositories.
+**Araçlar ve Teknolojiler**  
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Botları" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+### 🚀 Öne Çıkan Projeler
 
-<div align="center">
+| Proje Türü | Açıklama |
+| :--- | :--- |
+| 🐍 **Python Projeleri** | Gelişmiş otomasyon, web scraping, API entegrasyonları ve sağlam yardımcı betikler. |
+| 🤖 **Discord Projeleri** | API entegrasyonları ve otomatik moderasyon içeren etkileşimli Discord botları. |
+| 💻 **C# / Rust Projeleri** | Masaüstü uygulamaları, GUI geliştirme ve temel programlama deneyleri. |
+| 🌐 **Web Projeleri** | Web geliştirme, backend sistemleri ve API tabanlı veri işleme projeleri. |
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BayDomatis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayDomatis&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BayDomatis&theme=tokyonight&hide_border=true" />
-
-</div>
+> 📌 *Kaynak kodları ve detaylı dokümantasyonlar için aşağıdaki repolarıma göz atabilirsiniz!*
 
 ---
 
-## 🐍 Contribution Snake
+### 📊 GitHub İstatistikleri
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BayDomatis/BayDomatis/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 💡 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BayDomates&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub İstatistikleri" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BayDomates&theme=tokyonight&hide_border=true" alt="GitHub Serisi" width="48%">
+</p>
 
 ---
 
-## 📈 Activity
+### 🌐 Benimle İletişime Geçin
 
-<div align="center">
+<p align="center">
+  <a href="mailto:eposta_adresin@gmail.com"><img src="https://img.shields.io/badge/E_Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Posta" /></a>
+  <a href="https://discord.com/users/discord_id"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://linkedin.com/in/linkedin_kullanici_adin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BayDomatis&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/BayDomatis">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 👀 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <i>👀 Profilimi ziyaret ettiğiniz için teşekkürler! Harika bir şeyler kodlayalım.</i>
+</p>
